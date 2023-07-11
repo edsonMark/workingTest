@@ -9,7 +9,7 @@
     "grunt": "^1.0.1"
   },
   "devDependencies": {
-    "protractor": "5.1.2",
+    "protractor": "5.4.4",
     "cucumber": "2.3.1",
     "protractor-cucumber-framework": "3.1.2",
     "chai": "3.5.0",
